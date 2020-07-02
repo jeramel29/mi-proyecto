@@ -1,0 +1,19 @@
+#divBotones {
+	text-align:center;
+}
+
+html{
+	background: #cccccc;
+}
+
+Body{
+	margin:50px;
+	border:solid 1px  black;
+	padding:10px;	
+	background: white;
+	
+}
+#jquery{
+margin: 5px;
+border: solid 4px #cccccc;
+}
